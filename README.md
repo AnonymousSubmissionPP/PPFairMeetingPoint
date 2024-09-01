@@ -1,4 +1,7 @@
-## Dependencies for the Meeting Point Protocol
+## Dependencies for the Privacy Preserving Fair Meeting Point Determination Protocol
+
+The protocol that is implemented is proposed in a paper with the title _"Privacy-Preserving Protocol for Determining Fair Meeting Point"_, anonymously submitted to Proceedings on Privacy Enhancing Technologies 2025.
+
 **1. The code**
 
 The implementation consists of 4 scripts, i.e., three scripts for the three parties: Alice, Bob, and
